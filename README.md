@@ -1,3 +1,7 @@
+----------------------------------
+**_You have a choice of 3 GUI interfaces, with descriptions available in the releases._**
+----------------------------------
+
 Sharing Multiple Versions of the GUI Interface.
 
 Each version has different features but retains the main functionality of flashing a partition via Fastboot.
