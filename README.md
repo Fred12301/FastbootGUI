@@ -40,5 +40,7 @@ pyinstaller --onefile --noconsole FastbootGuiMini.py
 pyinstaller --onefile --icon=icon.ico FastbootGuiMini.py
 ```
 
+### "PS: In the Release section, you will find 3 different GUI versions with precompiled downloads via PyInstaller for Linux, along with detailed information about each Project GUI available."
+
 
 
